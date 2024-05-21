@@ -6,4 +6,5 @@
 /node_modules
 /widget.zip
 /widget
+/static/script.js
 /package-lock.json
